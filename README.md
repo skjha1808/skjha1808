@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Kumar
 
-<!--
-**skjha1808/skjha1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology student at JECRC, Jaipur (2023–2027)
 
-Here are some ideas to get you started:
+💻 Passionate about Problem Solving, Data Structures & Algorithms, and Full Stack Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently building an AI-powered Placement Tracker using the MERN Stack.
+
+📈 Solved 300+ DSA problems across coding platforms.
+
+🚀 Actively preparing for Software Development Engineer roles.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- JavaScript
+
+### Frontend
+- HTML
+- CSS
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Thunder Client
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Placement Tracker
+An AI-powered MERN application to track placement applications, interview rounds, and job offers.
+
+### 🌍 EduSafe-360
+A disaster preparedness platform featuring AI-based prediction, emergency support, and awareness tools.
+
+### 🎬 Netflix Clone
+A responsive frontend project inspired by Netflix's modern UI.
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/skjha1808
+- LinkedIn: https://www.linkedin.com/in/skjha1808/
+- LeetCode: https://leetcode.com/u/skjha1808/
+
+---
+
+⭐ Always learning, building, and improving.
