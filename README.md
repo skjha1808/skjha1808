@@ -57,6 +57,7 @@ A responsive frontend project inspired by Netflix's modern UI.
 - GitHub: https://github.com/skjha1808
 - LinkedIn: https://www.linkedin.com/in/skjha1808/
 - LeetCode: https://leetcode.com/u/skjha1808/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/skjha1808
 
 ---
 
