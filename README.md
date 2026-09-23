@@ -1,14 +1,14 @@
 # Hi 👋, I'm Shubham Kumar
 
-🎓 B.Tech Information Technology student at JECRC, Jaipur (2023–2027)
+🎓 B.Tech in Information Technology at JECRC, Jaipur | 2023–2027
 
-💻 Passionate about Problem Solving, Data Structures & Algorithms, and Full Stack Web Development.
+💻 Focused on Problem Solving, Data Structures & Algorithms, and Full Stack Web Development.
 
-🌱 Currently building an AI-powered Placement Tracker using the MERN Stack.
+🚀 Building an AI-powered Placement Tracker using the MERN Stack to manage placement applications and analyze resumes.
 
-📈 Solved 300+ DSA problems across coding platforms.
+📈 Solved 400+ DSA problems across multiple coding platforms.
 
-🚀 Actively preparing for Software Development Engineer roles.
+🎯 Preparing for Software Development Engineer roles and continuously strengthening my development and problem-solving skills.
 
 ---
 
@@ -31,6 +31,9 @@
 ### Database
 - MongoDB
 
+### AI
+- Gemini API
+
 ### Tools & Technologies
 - Git
 - GitHub
@@ -42,22 +45,21 @@
 ## 📌 Featured Projects
 
 ### 🚀 Placement Tracker
-An AI-powered MERN application to track placement applications, interview rounds, and job offers.
+An AI-powered MERN application for students to track placement applications, company eligibility, interview rounds, deadlines, and job offers, with AI-powered resume analysis.
 
 ### 🌍 EduSafe-360
-A disaster preparedness platform featuring AI-based prediction, emergency support, and awareness tools.
+A disaster preparedness platform for schools and colleges featuring AI-based prediction, emergency support, and disaster awareness tools.
 
 ### 🎬 Netflix Clone
-A responsive frontend project inspired by Netflix's modern UI.
+A responsive frontend project inspired by Netflix's UI, built to practice modern web development and responsive design.
 
 ---
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/skjha1808
 - LinkedIn: https://www.linkedin.com/in/skjha1808/
 - LeetCode: https://leetcode.com/u/skjha1808/
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/skjha1808
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/skjha1808/
 
 ---
 
